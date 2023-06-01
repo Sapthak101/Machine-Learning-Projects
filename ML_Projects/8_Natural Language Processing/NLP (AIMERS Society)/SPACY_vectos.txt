@@ -1,0 +1,7 @@
+in NLP every word will have a specific value
+for example every word may have multiple values
+around 300 values (mathematical representation) are there for every words
+ a word has 300 values for it based upon the representation it will take appropriate valuer
+the collection of all the values is called a vector
+the mathematical representation of a word is called a vector
+https://colab.research.google.com/drive/13GPVKRdsMMBw3NgVDtJ1JDcMxjn_2SDp?usp=sharing
